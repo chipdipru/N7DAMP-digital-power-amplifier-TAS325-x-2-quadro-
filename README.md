@@ -13,6 +13,13 @@ N7 digital power amplifier TAS325 x 2 (quadro). Подключение двух 
 Для прошивки RDC2-0032 скачайте программу <a class="link" href="https://static.chipdip.ru/lib/465/DOC002465470.zip">DfuSeDemo</a> от STMicroelectronics.   Установите её на свой компьютер. Запустите программу.<br>
 На плате  RDC2-0032 найдите контакты Boot и замкните их на время программирования. Подключите RDC2-0032 к порту USB. 
 В DfuSeDemo в разделе “Upgrade or Verify Action” нажмите “Choose”. 
-
+<p><a class="galery" href="https://static.chipdip.ru/lib/504/DOC004504421.jpg"><img alt="Схема" src="https://static.chipdip.ru/lib/504/DOC004504742.jpg" /></a></p>
+Выберите файл прошивки с расширением.dfu”.
+<p><a class="galery" href="https://static.chipdip.ru/lib/504/DOC004504421.jpg"><img alt="Схема" src="https://static.chipdip.ru/lib/504/DOC004504743.jpg" /></a></p>
+Выберите опцию “Verify after download”. Нажмите кнопку “Upgrade”. В появившемся окне нажмите «Да». Начнется загрузка программы в устройство.
+<p><a class="galery" href="https://static.chipdip.ru/lib/504/DOC004504421.jpg"><img alt="Схема" src="https://static.chipdip.ru/lib/504/DOC004504744.jpg" /></a></p>
+Дождитесь окончания загрузки. 
+Загрузка программы завершена, устройство готово к эксплуатации.
+<p><a class="galery" href="https://static.chipdip.ru/lib/504/DOC004504421.jpg"><img alt="Схема" src="https://static.chipdip.ru/lib/504/DOC004504745.jpg" /></a></p>
 <h2>Схема подключения</h2>
 <p><a class="galery" href="https://static.chipdip.ru/lib/504/DOC004504421.jpg"><img alt="Схема" src="https://static.chipdip.ru/lib/504/DOC004504422.jpg" /></a></p>
