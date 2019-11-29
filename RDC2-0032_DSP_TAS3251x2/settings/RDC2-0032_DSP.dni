@@ -1,0 +1,90 @@
+[InterruptLog]
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+SumEnabled=0
+ShowTimeSum=1
+SumSortOrder=0
+[DataLog]
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+SumEnabled=0
+ShowTimeSum=1
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[Interrupts]
+Enabled=1
+[MemConfig]
+Base=1
+Manual=0
+Ddf=1
+TypeViol=0
+Stop=1
+[Trace1]
+Enabled=0
+ShowSource=1
+[Simulator]
+Freq=10000000
+MultiCoreRunAll=1
+[StLinkDriver]
+CStepIntDis=_ 0
+LeaveTargetRunning=_ 0
+stlinkserialNo=D8039CDF
+stlinkfoundProbes=
+[DebugChecksum]
+Checksum=953706669
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[array_types]
+Fmt0=uint8_t[2]	3	0
+[watch_formats]
+Fmt0={W}1:ADCStatus	4	0
+Fmt1={W}1:ActiveKey	4	0
+Fmt2={W}1:BalanceFront	3	0
+Fmt3={W}1:BalanceLeft	3	0
+Fmt4={W}1:BalanceLeft_2	3	0
+Fmt5={W}1:BalanceRear	3	0
+Fmt6={W}1:BalanceRight	3	0
+Fmt7={W}1:BalanceRight_2	3	0
+Fmt8={W}1:BalanceSide_Front	3	0
+Fmt9={W}1:BalanceSide_Left	3	0
+Fmt10={W}1:BalanceSide_Rear	3	0
+Fmt11={W}1:BalanceSide_Right	3	0
+Fmt12={W}1:MainVolume	3	0
+Fmt13={W}1:ParamData	4	0
+Fmt14={W}1:Status	4	0
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[CallStackLog]
+Enabled=0
+[CallStackStripe]
+ShowTiming=1
+[Disassemble mode]
+mode=0
+[Breakpoints2]
+Bp0=_ 1 "EMUL_CODE" "{$PROJ_DIR$\Src\main.c}.397.3" 0 0 1 "" 0 "" 0
+Bp1=_ 1 "EMUL_CODE" "{$PROJ_DIR$\Src\main.c}.403.3" 0 0 1 "" 0 "" 0
+Bp2=_ 1 "EMUL_CODE" "{$PROJ_DIR$\Src\main.c}.368.3" 0 0 1 "" 0 "" 0
+Count=3
+[Aliases]
+Count=0
+SuppressDialog=0
