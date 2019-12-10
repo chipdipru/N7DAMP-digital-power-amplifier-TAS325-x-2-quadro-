@@ -28,4 +28,5 @@ USB – I2S конвертер установите в режим квадро. 
 <img alt="" src="https://static.chipdip.ru/lib/369/DOC004369719.jpg" /><br />
 
 <h2>Схема подключения</h2>
-<p><a class="galery" href="https://static.chipdip.ru/lib/504/DOC004504421.jpg"><img alt="Схема" src="https://static.chipdip.ru/lib/504/DOC004504422.jpg" /></a></p>
+<p><a class="galery" href="https://static.chipdip.ru/lib/605/DOC004605113.jpg"><img alt="Схема" src="https://static.chipdip.ru/lib/605/DOC004605114.jpg"></a></p>
+
