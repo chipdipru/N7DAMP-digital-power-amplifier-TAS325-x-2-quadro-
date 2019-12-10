@@ -66,7 +66,7 @@
 У USB/I2S преобразователя Super Prime с прошивкой старше v1.3 во время подключения к порту USB на ножке(3) появляется высокий логический уровень (3.3В) Его можно использовать для автоматического включения основного блока питания, если он имеет такую функцию.
 <h2>Схема подключения</h2>
 
-<p><a class="galery" href="https://static.chipdip.ru/lib/605/DOC004605114.jpg"><img alt="Схема" src="https://static.chipdip.ru/lib/605/DOC004605114.jpg" /></a></p>
+<p><a class="galery" href="https://static.chipdip.ru/lib/605/DOC004605113.jpg"><img alt="Схема" src="https://static.chipdip.ru/lib/605/DOC004605113.jpg" /></a></p>
 
 <h2>Прошивка модуля RDC2-0032</h2>
 <br />
